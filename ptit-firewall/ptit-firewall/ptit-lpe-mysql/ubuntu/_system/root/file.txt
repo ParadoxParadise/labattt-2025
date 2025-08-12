@@ -1,0 +1,3 @@
+# This file is modified when container is created
+# The string below will be replaced with a keyed hash
+My string is: MYSQL_STRING
