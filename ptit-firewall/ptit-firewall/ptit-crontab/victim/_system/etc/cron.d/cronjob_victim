@@ -1,2 +1,0 @@
-@reboot victim /usr/bin/cronjob_victim.sh &> /dev/null
-* * * * * victim /usr/bin/cronjob_victim.sh &> /dev/null
